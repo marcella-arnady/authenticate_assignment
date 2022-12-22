@@ -1,0 +1,13 @@
+GUIDE INSTALASI
+
+Install:
+Laravel
+Composer
+Socialite
+
+Database: 
+Buat database menggunakan mysql menggunakan nama authenticate_asg
+Run php artisan migrate
+
+Login:
+Google + Github (diperlukan Client id dan client secret)
